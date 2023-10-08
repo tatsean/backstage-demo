@@ -9,6 +9,6 @@ metadata:
 spec:
   type: website
   lifecycle: experimental
-  owner: "guests"
+  owner: "ntm-bff"
   dependsOn:
     - component:default/searcher
